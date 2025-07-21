@@ -27,7 +27,7 @@ See the full academic report in [`report/CW_REPORT_230235405.pdf`](report/CW_REP
 ## 👤 Author
 **Animesh Sandhu**  
 MSc Robotics – University of Sheffield  
-LinkedIn: [linkedin.com/in/animeshsandhu](https://linkedin.com/in/animeshsandhu)
+LinkedIn: https://www.linkedin.com/in/animesh-sandhu-9a0586174?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxlJReMXNTkOusxVQbwetIg%3D%3D
 
 ---
 
